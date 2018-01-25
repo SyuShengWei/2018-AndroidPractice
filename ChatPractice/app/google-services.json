@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "529208685004",
+    "firebase_url": "https://supercoooool-c0a86.firebaseio.com",
+    "project_id": "supercoooool-c0a86",
+    "storage_bucket": "supercoooool-c0a86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529208685004:android:0e37b5234d71ecdd",
+        "android_client_info": {
+          "package_name": "tw.edu.ncku.iim.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529208685004-0dm0p5de8410fgp4v8kok53dacunqf78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9nRUo39p0kdHpmpCg5fyUNI_fkgl-R0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529208685004:android:96a8f3eead45735b",
+        "android_client_info": {
+          "package_name": "tw.edu.ncku.im.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529208685004-0dm0p5de8410fgp4v8kok53dacunqf78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9nRUo39p0kdHpmpCg5fyUNI_fkgl-R0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="list_of_messages" type="id">list_of_messages</item>
+    <item name="input" type="id">input</item>
+    <item name="fab" type="id">fab</item>
+</resources>
